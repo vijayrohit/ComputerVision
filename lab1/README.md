@@ -1,3 +1,5 @@
+**Mean Shift Algorithm**
+
 ----------------**Parameters**----------------
 
 data.txt file has all input parameters.
