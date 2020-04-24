@@ -1,0 +1,5 @@
+target/trap.png
+200
+source/coke.png
+output/coke_WB.png
+0.0

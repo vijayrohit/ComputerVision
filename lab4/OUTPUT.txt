@@ -1,0 +1,18 @@
+Real 3D worldCordinates
+[170 170   0]
+Estimated 3D worldCordinates
+[[181.79747674]
+ [134.16426662]
+ [ 64.1591319 ]]
+Real 3D worldCordinates
+[170 170   0]
+Estimated 3D worldCordinates
+[[181.79747674]
+ [134.16426662]
+ [ 64.1591319 ]]
+Real 3D worldCordinates
+[170 170   0]
+Estimated 3D worldCordinates
+[[181.79747674]
+ [134.16426662]
+ [ 64.1591319 ]]
